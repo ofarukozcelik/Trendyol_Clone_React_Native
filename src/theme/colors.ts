@@ -1,0 +1,16 @@
+export const colors = {
+  PRIMARY: '#f35c16',
+  WHITE: '#ffffff',
+  BLACK: '#000000',
+  RED: '#FF3F3F',
+  DARK_GRAY: '#333333',
+  LIGHT_GRAY: '#cccccc',
+  GREEN: '#0bc15c',
+  GRAY: '#999999',
+  YELLOW: '#FFC800',
+  ORANGE: '#FF923F',
+  BLUE: '#C6E7FF',
+  DARK_BLUE: '#006BFF',
+  LIGHT_GREEN: '#BDE8CA',
+  LIGHT_PINK: '#FFE3E3',
+};
